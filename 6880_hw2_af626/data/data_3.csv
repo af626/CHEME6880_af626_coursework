@@ -1,0 +1,11 @@
+﻿Feature,Status,Value
+Employment Status,Unemployed,0
+,Employed,1
+Credit Rating,Excellent,1
+,Fair,0
+Available Credit,High,2
+,Medium,1
+,Low,0
+Age,Senior,2
+,Middle Age,1
+,Young,0
